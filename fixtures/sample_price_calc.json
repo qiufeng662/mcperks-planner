@@ -1,0 +1,25 @@
+{
+  "productOriginalPrice": 2550,
+  "productPrice": 2550,
+  "deliveryOriginalPrice": 0,
+  "deliveryPrice": 0,
+  "packingOriginalPrice": 0,
+  "packingPrice": 0,
+  "tablewarePrice": 0,
+  "originalPrice": 2550,
+  "discount": 0,
+  "price": 2550,
+  "productList": [
+    {
+      "productCode": "1100",
+      "productName": "巨无霸",
+      "quantity": 1,
+      "originalSubtotal": 2550,
+      "subtotal": 2550
+    }
+  ],
+  "takeWayList": [
+    {"code": "eat-in", "title": "堂食", "subtitle": "店内用餐"},
+    {"code": "locker-out", "title": "外带", "subtitle": "店外取餐柜"}
+  ]
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "code": "1100",
+    "name": "巨无霸",
+    "current_price": 25.5,
+    "original_price": 25.5,
+    "discount_type": null,
+    "can_with_order": false,
+    "with_order": null,
+    "captured_from_mcp": true
+  },
+  {
+    "code": "9900005456",
+    "name": "麦辣鸡腿汉堡三件套",
+    "current_price": 33.5,
+    "original_price": 46,
+    "discount_type": null,
+    "can_with_order": false,
+    "with_order": null,
+    "captured_from_mcp": true
+  },
+  {
+    "code": "9900016073",
+    "name": "龙焰鸡腿堡三件套",
+    "current_price": 26.9,
+    "original_price": 47.5,
+    "discount_type": null,
+    "can_with_order": false,
+    "with_order": null,
+    "captured_from_mcp": true
+  },
+  {
+    "code": "521950",
+    "name": "蓝莓爆爆珠麦旋风",
+    "current_price": 16.5,
+    "original_price": 16.5,
+    "discount_type": null,
+    "can_with_order": false,
+    "with_order": null,
+    "captured_from_mcp": true
+  },
+  {
+    "code": "4810",
+    "name": "薯条",
+    "current_price": 13.5,
+    "original_price": 13.5,
+    "discount_type": null,
+    "can_with_order": false,
+    "with_order": null,
+    "captured_from_mcp": true
+  }
+]

@@ -1,0 +1,8 @@
+# 运行 McPerks Planner 核心功能无需任何第三方依赖（仅使用 Python 标准库）。
+# 以下为可选/开发依赖：
+
+# 运行自动化测试
+pytest>=8.0
+
+# 可选：在非 WorkBuddy 平台通过直连客户端调用 MCP（mcp_adapter.McDMCPClient）
+requests>=2.28
